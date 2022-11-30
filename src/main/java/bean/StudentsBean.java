@@ -1,3 +1,4 @@
+package bean;
 /* A JavaBean is a specially constructed Java class written in the Java and coded according to the JavaBeans API specifications.
 
 Following are the unique characteristics that distinguish a JavaBean from other Java classes:
